@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\bin\Debug\net6.0\Additional_Task.exe
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\bin\Debug\net6.0\Additional_Task.deps.json
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\bin\Debug\net6.0\Additional_Task.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\bin\Debug\net6.0\Additional_Task.dll
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\bin\Debug\net6.0\Additional_Task.pdb
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.dll
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\refint\Additional_Task.dll
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.pdb
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\Additional_Task.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Additional_Task\obj\Debug\net6.0\ref\Additional_Task.dll
