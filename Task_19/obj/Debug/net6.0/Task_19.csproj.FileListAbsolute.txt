@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\bin\Debug\net6.0\Task_19.exe
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\bin\Debug\net6.0\Task_19.deps.json
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\bin\Debug\net6.0\Task_19.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\bin\Debug\net6.0\Task_19.dll
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\bin\Debug\net6.0\Task_19.pdb
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.dll
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\refint\Task_19.dll
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.pdb
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\Task_19.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_3\DZ_3\Task_19\obj\Debug\net6.0\ref\Task_19.dll
