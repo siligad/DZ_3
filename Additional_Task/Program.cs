@@ -16,6 +16,6 @@ if (SomeSymbols.Length != 5)
         SomeSymbols = Console.ReadLine();
     }
 if (SomeSymbols[0] == SomeSymbols[4] && SomeSymbols[1] == SomeSymbols[3])
-    Console.Write("Введённая последовательность полином");
+    Console.Write("Введённая последовательность палиндром");
     else
-    Console.Write("Введённая последовательность не полином");
+    Console.Write("Введённая последовательность не палиндром");
